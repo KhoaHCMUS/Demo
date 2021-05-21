@@ -1,0 +1,12 @@
+câu 1: ý nghĩa của đôi hình tiểu đội hàng ngang
+- Thường vận dụng trong học tập, sinh hoạt, hạ lệnh, kiểm tra quân số, khám súng, giá súng,...
+câu 2: thứ tự các bước chỉ huy tập hợp đội hình tiểu đôi 1 hàng ngang
+- Tập hợp, điểm số, chỉnh đốn hàng ngũ, giải tán
+câu 3: khẩu lệnh của tiểu đội trưởng khi tập hợp đội hình tiểu đội 1 hàng ngang
+- Dự lệnh: Tiểu đội X thành một hàng ngang, động lệnh: tập hợp
+- Dự lệnh: Tiểu đội X thành hai hàng ngang, động lệnh: tập hợp (nếu là 2 hàng ngang)
+câu 4: ý nghĩa của đội ngũ tiểu đội 1 hàng dọc
+- thường vận dụng trong hành quân, trong đội hình tập hợp của trung đội, đại đội khi tập trung sinh hoạt, học tập
+câu 5: vị trí chỉ huy khi hành tiến của tiểu đội trưởng trong đội hình hàng dọc
+- đi ở bên trái đội hình của tiểu đội, cách 2 đến 3 bước, ngang với hàng trên cùng
+:>>
